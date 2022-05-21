@@ -101,3 +101,9 @@ if scankey == "xyzxx12dc":
             print("SHUTTING DOWN ALL SYSTEMS. ACTIVATING INVISIBLE CAMOFLAUGE. GOODBYE, " + username + "!")
 
 ```
+*In that code, I added the tardis' takeoff sequence. I then added the first location you could travel too, 'The Backrooms' (an liminal space), and started developing the second location, planet 'e456'.
+
+## Planet 'Eartheria Xenovia 456':
+
+### placeholder
+
