@@ -139,7 +139,8 @@ if scankey == "xyzxx12dc":
         print("SUCCESSFUL LANDING. PLEASE EXIT NOW. TYPE 'goodbye_tardis' TO SHUT DOWN TARDIS. DEACTIVATING UN-NECESARY SYSTEMS TO PRESERVE POWER.")
         print("TYPE 'goback_initiate' ON YOUR KEYBOARD TO RE-START ALL SYSTEMS AND GO BACK TO YOUR HOME.")
         
-        ```
+ ```
+ 
 *After I finished that, I took a break and started conjuring up ideas for things in the game.*
 *Eventually I intigrated a shutdown system, called "goodbye_tardis", which when activated would end the program. I did this with this easy code:*
 
