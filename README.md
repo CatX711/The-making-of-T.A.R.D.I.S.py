@@ -103,7 +103,7 @@ if scankey == "xyzxx12dc":
 ```
 *In that code, I added the tardis' takeoff sequence. I then added the first location you could travel too, 'The Backrooms' (an liminal space), and started developing the second location, planet 'e456'.
 
-## Planet 'Eartheria Xenovia 456':
+## Planet 'E-456':
 
 ### E code:
 
