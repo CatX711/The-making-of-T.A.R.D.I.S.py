@@ -280,7 +280,7 @@ sleep(5)
 
 # THE END (not really):
 
-*As I hit the final letters on my keyboard, I shed a single tear... and, also... immediately uploaded it onto github. if you would like to see the full code, look at the second file in this repository. Thanks for reading this (sort of) book!
+*As I hit the final letters on my keyboard, I shed a single tear... and, also... immediately uploaded it onto github. if you would like to see the full code, look at the second file in this repository. Thanks for reading this (sort of) book!*
 
 # The actual end:
 
