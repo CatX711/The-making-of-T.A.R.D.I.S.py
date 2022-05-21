@@ -164,4 +164,116 @@ if whatnext == "goback_initiate":
 
 ### Xenovi Coding
 
-*Eartheria Xenovia 456 (prounounced urth-eer-ia cse-no-vee-a 456), or, more commonly known as Earth X, is, as the code says, is a barren wasteland. On the way there the tardis gets destroyed by an intergalactic monster.*
+*Eartheria Xenovia 456 (prounounced urth-eer-ia cse-no-vee-a 46), or, more commonly known as Earth-X, is, as the code says, is a barren wasteland. On the way there the tardis gets jumped and destroyed by an intergalactic monster. This idea was cool, but I originally wanted to make the monster only have a %35 chance of killing you. Of course, because I suck, I had no idea how to do this, and gave up, making the monster kill you every time you go there. What a sad, sad life.*
+
+*The code I used:*
+
+```
+if goto == "e-x":
+        print("EARTHERIA XENOVIA 46, MORE COMMONLY KNOWN AS EARTH-X, IS A WASTELAND, WITH A HIGHLY TOXIC ATMOSPHERE, ACID RAIN, HIGH PRESSURE, EQUIVALENT TO SWIMMING A FEW MILES UNDERWATER, AND A BAREN, ROCKY LANDSCAPE. THE ONLY GOOD THING ABOUT THIS PLANET IS HOW MINERAL RICH IT IS.")
+        print("DUE TO THE CONDITIONS OF THE PLANET, WHEN EXITING THE TARDIS, YOU MUST WEAR A HIGHLY PROTECTIVE, CLASS 18 M.U.C EXTREME ENVIRONMENT SUIT (C18_M.U.C_E.E.S)")
+        print("WHEN LANDED, THE TARDIS WILL NOT SHUT OFF, AS IF THE SYSTEMS ARE DISABLED, THE OUTER LAYER OF THE SHIP WOULD MELT, LEAVING THE FRAGILE PARTS EXPOSED. THERE WILL BE NO BREATHABLE AIR HERE, SO BE WEARY. WHEN YOU EXIT THE TARDIS, RUN AS FAST AS YOU CAN, AS GOING SLOWLY WILL DAMAGE THE SUIT FROM THE CONDITIONS.")
+        print("PLEASE DO NOT EXIT THE BASES THAT YOU WILL ENTER WHEN YOU LAND ON THIS WORLD, AS YOU WILL EASILY BE DECIMATED BY THE WEATHER. GOOD LUCK!")
+        sleep(55)
+        print("TURNING ON BOOSTERS. CALCULATING DESTINATION. PREPARING EMERGENCY EXITS.")
+        sleep(2)
+        print("ACTIVATING CLEAROGEL. CHEKCING COOLANT SYSTEMS. STIMULATING ION DETANATION FROM FUEL CRYSTALS. FILLING FUEL TANKS. FILLING OXYGEN TANKS.")
+        sleep(10)
+        print("PLEASE HOLD ONTO YOUR SEATS AND PUT ON THE SAFETY STRAP. WE WILL LEAVE IN:")
+        print("5...")
+        sleep(2)
+        print("4...")
+        sleep(2)
+        print("3...")
+        sleep(2)
+        print("2...")
+        sleep(2)
+        print("1...")
+        sleep(3)
+        print("BLAST OFF! TIME UNTIL DESTINATION REACH: 10 SECONDS.")
+        sleep(5)
+        print("HALFWAY.")
+        sleep(10)
+        print("DETECTING THREAT... PLEASE WAIT. SCANNING...")
+        sleep(3)
+        print("IDENTIFYING THREAT:")
+        print("PREFORMING RADIOWAVE SCAN...")
+        sleep(4)
+        print("idinfijsndiusdnfincisiunin12uinuiniudnisuncnijdncisdncishbcubsiuysudygbugbubSDSEFDVDVJDSD__BESFHNSDHFIDNIUDIAWHD-NJDNIUNDASJN-DLNDIAJSDN-AJSNDKAJSDNAKJSDNISFNIMUWU12354dgchnchdndhdhdhgfbcgfmjlkpolkpollaolpoldlpoasewrgdg11nnnbjn2hh3hhdhnchsdshnjsnjchsncjhbscjhsncjsjfjfueuehudhcidjhijii-456796869724352jdjjdjdfnccnnindiwnjnuhbbihiuiuhiuhiygfgadgnjdcdmcoscosmcos________bhbhbh12bhbuhbucnu89nxndcuncusncusncusncusncbhn46bhbcjhdjhbsjhbhbcnejkdjnkdjncjdnccnnxbshishuhcuhhdnicjncincjnjnjnjnhhysbgsbdghnjdnd000990099999900990010100000111100020002ijijj-7-8-6-7-8-9-ujijidhshbuabduyasduyhsudy'#~~~~///////????!##~~~~hdusiudh~##############123jdsujdsu45dhhnhnc76uhsduhsd8jjj0")
+        sleep(1)
+        print("udhushduhsudhsjdna#udyhaudyhasuydhsuydhayushday--- #12366 LOCATED.")
+        sleep(2)
+        print("RADIOWAVE SCAN COMPLETE.")
+        print("THREAT IDENTIFIED.")
+        print("PLEASE EXIT TO YOUR LIFE PODS, AS AN UNKNOW SPECIES HAS ENTERED THE SHIP.")
+        sleep(5)
+        print("*WARNING* *WARNING* AN ALIEN SPECIES HAS ENTERED THE SHIP- PLEASE EVACUATE TO THE LIFE PODS LOCATED ON HALLWAY 678, 899, 432, 106. THIS MESSAGE WILL NOW REPEAT!")
+        sleep(2)
+        print("*WARNING* *WARNING* AN ALIEN SPECIES HAS ENTERED THE SHIP- PLEASE EVACUATE TO THE LIFE PODS LOCATED ON HALLWAY 678, 899, 432, 106. THIS MESSAGE WILL NOW REPEAT!")
+        sleep(2)
+        print("*WARNING* *WARNING* AN ALIEN SPECIES HAS ENTERED THE SHIP- PLEASE EVACUATE TO THE LIFE PODS LOCATED ON HALLWAY 678, 899, 432, 106. THIS MESSAGE WILL NOW REPEAT!")
+        sleep(2)
+        print("*WARNING* *WARNING* AN ALIEN SPECIES HAS ENTERED THE SHIP- PLEASE EVACUATE TO THE LIFE PODS LOCATED ON HALLWAY 678, 899, 432, 106. THIS MESSAGE WILL NOW REPEAT!")
+        sleep(2)
+        print("EJECTING LIFE PODS. ACTIVATING DEFENSE SYSTEMS. RELEASING POISONOUS GASSES. ALL CREW, PLEASE PUT ON YOUR GAS MASK AS YOU EVACUATE TO THE LIFE PODS. RUNNING SELF DESTRUCTION PROGRAMME.")
+        print("RUNNING:")
+        sleep(1)
+        print("5%")
+        sleep(5)
+        print("26%")
+        sleep(4)
+        print("56%")
+        sleep(3)
+        print("78%")
+        sleep(2)
+        print("81%")
+        sleep(2)
+        print("99.98%")
+        sleep(2)
+        print("99.99%")
+        print("100%")
+        print("SELF DESTRUCTION IN 3... 2... 1...")
+        sleep(1)
+        print("SELF DESTRUCT INITIATED.")
+
+```
+*After this, I took a brake from coding TARDIS for a bit.*
+
+### The next day was A-Okay!:
+
+*After the previous day, I wanted to add the final location: The Homebase. So I got to work.*
+
+```
+if goto == "hb":
+        print("HOMEBASE IS WHERE YOU LIVE, WHERE TARDISES ARE BUILT, AS WELL AS MARK-45 TARDI, AND WHERE RESEARCH IS DONE ON PLANETS AND GALAXYS, ECT. ONCE AT HOMEBASE YOU HAVE THE OPTION TO TRAVEL TO YOUR HOME PLANET.")
+        print("PLEASE HOLD ONTO YOUR SEATS AND PUT ON THE SAFETY STRAP. WE WILL LEAVE IN:")
+        print("5...")
+        sleep(2)
+        print("4...")
+        sleep(2)
+        print("3...")
+        sleep(2)
+        print("2...")
+        sleep(2)
+        print("1...")
+        sleep(3)
+        print("BLAST OFF! TIME UNTIL DESTINATION REACH: 10 SECONDS.")
+```
+*At this time I went cry cry, as I realised this was nearly the end of my project, and my computer went boom boom from the amount of code it was having to run.*
+
+```
+sleep(5)
+        print("HALFWAY.")
+        sleep(5)
+        print("ACTIVATING BRAKES. EJECTING FUEL CRYSTALS. RELEASING BRAKE BOOSTERS. PLEASE WAIT ANOTHER 10 SECONDS TO SAFELY LAND, WHEN WE HAVE LOST ALL FRICTION.")
+        sleep(10)
+        print("SUCCESSFUL LANDING. PLEASE EXIT NOW! BYE!")
+        sleep(2)
+        print("SHUTTING DOWN.")
+
+```
+*Is this it... the end?! No, it's not. I did a lot more freaking work.*
+
+## Final touches... ish:
+
+
