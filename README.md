@@ -276,4 +276,14 @@ sleep(5)
 
 ## Final touches... ish:
 
+*At this point I was working on polishing the game and fixing bugs. I added TerraBot, who activates the tardis, and fixed some errors. My 11 year old brain was deflated at this point. I added clocation and scankey, to verify your location and stuff like that, and wrote my last lines of code.*
+
+# THE END (not really):
+
+*As I hit the final letters on my keyboard, I shed a single tear... and, also... immediately uploaded it onto github. if you would like to see the full code, look at the second file in this repository. Thanks for reading this (sort of) book!
+
+# The actual end:
+
+*I will probably come back to this game in some time. I'm already working on a sequel! But currently, tardis.py will be left alone. If you would like to try it, just fork the code. Anyways, have a good day/night, my fellow githubbers! (or is it githubi...-Never mind that, no one cares!)*
+
 
