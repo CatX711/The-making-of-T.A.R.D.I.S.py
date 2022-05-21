@@ -142,7 +142,7 @@ if scankey == "xyzxx12dc":
  ```
  
 *After I finished that, I took a break and started conjuring up ideas for things in the game.*
-*Eventually I intigrated a shutdown system, called "goodbye_tardis", which when activated would end the program. I did this with this easy code:*
+*Eventually I intigrated a system that takes you to your homebase, called "goback_initiate", and  called a shutdown system called "goodbye_tardis", which when activated would end the program. I did this with this easy code:*
 
 ```
 if whatnext == "goback_initiate":
