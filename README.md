@@ -105,5 +105,57 @@ if scankey == "xyzxx12dc":
 
 ## Planet 'Eartheria Xenovia 456':
 
-### placeholder
+### E-X code:
+
+*I started with simple code for E-456:*
+
+```
+ if goto == "e-456":
+        print("PLANET 'e-456' IS LIKE AN ALTERNATE VERSION OF OUR UNIVERSE. IT IS LOCATED IN 'Nebula B3', AND WAS COLONISED DUE TO BEING VERY SIMILAR TO OUR PLANET. THE PLACE CONSISTS OF A MOSTLY OXYGENATED ATMOSPHERE, WITH A SWEET, SALTY LIQUID THAT MAKES UP THE SEAS CALLED, 'Liquid-42'. HOW THIS LIQUID WAS FORMED IS UNKNOWN, BUT IT IS SAFE TO DRINK.")
+        sleep(21)
+        print("DO NOT APROACH ANY WILDIFE THERE WHEN UNSUPERVISED, AS MOST OF THE ANIMALS, PLANTS, FUNGI HERE ARE DANGEROUS.")
+        sleep(6)
+        print("TURNING ON BOOSTERS. CALCULATING DESTINATION. PREPARING EMERGENCY EXITS.")
+        sleep(6)
+        print("ACTIVATING CLEAROGEL. CHEKCING COOLANT SYSTEMS. STIMULATING ION DETANATION FROM FUEL CRYSTALS. FILLING FUEL TANKS. FILLING OXYGEN TANKS.")
+        sleep(10)
+        print("PLEASE HOLD ONTO YOUR SEATS AND PUT ON THE SAFETY STRAP. WE WILL LEAVE IN:")
+        print("5...")
+        sleep(2)
+        print("4...")
+        sleep(2)
+        print("3...")
+        sleep(2)
+        print("2...")
+        sleep(2)
+        print("1...")
+        sleep(3)
+        print("BLAST OFF! TIME UNTIL DESTINATION REACH: 10 SECONDS.")
+        sleep(5)
+        print("HALFWAY.")
+        sleep(5)
+        print("ACTIVATING BRAKES. EJECTING FUEL CRYSTALS. RELEASING BRAKE BOOSTERS. PLEASE WAIT ANOTHER 10 SECONDS TO SAFELY LAND, WHEN WE HAVE LOST ALL FRICTION.")
+        sleep(10)
+        print("SUCCESSFUL LANDING. PLEASE EXIT NOW. TYPE 'goodbye_tardis' TO SHUT DOWN TARDIS. DEACTIVATING UN-NECESARY SYSTEMS TO PRESERVE POWER.")
+        print("TYPE 'goback_initiate' ON YOUR KEYBOARD TO RE-START ALL SYSTEMS AND GO BACK TO YOUR HOME.")
+        
+        ```
+*After I finished that, I took a break and started conjuring up ideas for things in the game.*
+*Eventually I intigrated a shutdown system, called "goodbye_tardis", which when activated would end the program. I did this with this easy code:*
+
+```
+if whatnext == "goback_initiate":
+            print("ACTIVATING QUICK-TRAVEL V.91")
+            print("PLEASE PUT ON YOUR GAS MASKS ABOVE YOUR HEADS TO BE ABLE TO BREATH DURING THE TRIP AS WE WILL BE GOING SO FAST OXYGEN WILL NOT BE ABLE TO MANUALLY ENTER YOUR LUNGS")
+            print("ACTIVATING INTER DIMENSIONAL PORTAL. QUICK TRAVELING IN:")
+            sleep(3)
+            print("'TAKE OFF TIME' SYSTEMS FAILED. PREPARE TO LAUNCH AT ANY MOMENT.")
+            sleep(4)
+            print("BOOM! WE HAVE ENTERED QUICK TRAVEL. EXITING IN 3 SECONDS")
+            sleep(3)
+            print("BRACE FOR IMPACT. BANG. WE HAVE LANDED. READINGS SHOW THAT THE LANDING WHEELS SUSTAINED MINOR DAMAGE. FIXING NOW. YOU MAY EXIT THE TARDIS.")
+        if whatnext == "goodbye_tardis":
+            print("SHUTTING DOWN ALL SYSTEMS. ACTIVATING INVISIBLE CAMOFLAUGE. GOODBYE, " + username + "!")
+
+```
 
