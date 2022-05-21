@@ -16,7 +16,7 @@ Probably the first lines of my code:
 ```
 print("RUNNING 'LOADTARDIS.EXE'; PLEASE DO NOT SHUT OFF THE TARDIS MACHINE.")
 sleep(6)
-print("ACTIVATING ALL SAFETY PROTOCALLS...")
+print("ACTIVATING ALL SAFETY PROTOCOLS...")
 sleep(2)
 print("56%")
 sleep(0.45)
