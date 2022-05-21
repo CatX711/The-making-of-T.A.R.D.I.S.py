@@ -105,7 +105,7 @@ if scankey == "xyzxx12dc":
 
 ## Planet 'Eartheria Xenovia 456':
 
-### E-X code:
+### E code:
 
 *I started with simple code for E-456:*
 
@@ -159,4 +159,10 @@ if whatnext == "goback_initiate":
             print("SHUTTING DOWN ALL SYSTEMS. ACTIVATING INVISIBLE CAMOFLAUGE. GOODBYE, " + username + "!")
 
 ```
+*That's E-456 done, so, onto the next location!*
 
+## Eartheria Xenovia 46
+
+### Xenovi Coding
+
+*Eartheria Xenovia 456 (prounounced urth-eer-ia cse-no-vee-a 456), or, more commonly known as Earth X, is, as the code says, a barren wasteland. On the way there the tardis gets destroyed by an intergalactic monster.*
