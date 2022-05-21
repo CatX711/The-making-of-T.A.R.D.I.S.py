@@ -9,7 +9,7 @@
 
 ## First Lines:
 
-*When anyone decides to make a game, they all have to start with their first lines of code. Me, being a very unexperienced Python programmer, had very primitive lines of code. It mostly started as me doing print functions and if cmds, variables, but it all changed when I discovered the 'sleep()' function. I was trying to find a way to get the program to wait a few seconds before continuing, so it could look like the spaceship was preparing to launch or something. At first, I tried to use the 'wait' function, but that didn't do anything. I always got errors saying that, 'wait()' was not defined. Then, something in my tiny brain lit up. Why hadn't I thought of it? I just look it up. Eventually, I found a website that talked about importing 'sleep()' from 'time'. When I tried this, I was amazed. It worked!*
+*When anyone decides to make a game, they all have to start with their first lines of code. Me, being a very unexperienced Python programmer, had very primitive lines of code. It mostly started as me doing print functions, 'if' cmds, and variables, but it all changed when I discovered the 'sleep()' function. I was trying to find a way to get the program to wait a few seconds before continuing, so it could look like the spaceship was preparing to launch or something. At first, I tried to use the 'wait' function, but that didn't do anything. I always got errors saying that, 'wait()' was not defined. Then, something in my tiny brain lit up. Why hadn't I thought of it? I just look it up. Eventually, I found a website that talked about importing 'sleep()' from 'time'. When I tried this, I was amazed. It worked!*
 
 Probably the first lines of my code:
 
@@ -101,11 +101,11 @@ if scankey == "xyzxx12dc":
             print("SHUTTING DOWN ALL SYSTEMS. ACTIVATING INVISIBLE CAMOFLAUGE. GOODBYE, " + username + "!")
 
 ```
-*In that code, I added the tardis' takeoff sequence, and then added the first location you could travel too, 'The Backrooms' (an internet liminal space), and started developing the second location, planet 'e-456'.*
+*In that code, I added the tardis' takeoff sequence, and then added the first location you could travel to, 'The Backrooms' (an internet liminal space), and started developing the second location, planet 'e-456'.*
 
 ## Planet 'E-456':
 
-### E code:
+### Th-E code: (get it? The e in 'the' is the 'e' in 'e-456'!)
 
 *I started with simple code for E-456:*
 
@@ -164,7 +164,7 @@ if whatnext == "goback_initiate":
 
 ### Xenovi Coding
 
-*Eartheria Xenovia 456 (prounounced urth-eer-ia cse-no-vee-a 46), or, more commonly known as Earth-X, is, as the code says, is a barren wasteland. On the way there the tardis gets jumped and destroyed by an intergalactic monster. This idea was cool, but I originally wanted to make the monster only have a %35 chance of killing you. Of course, because I suck, I had no idea how to do this, and gave up, making the monster kill you every time you go there. What a sad, sad life.*
+*Eartheria Xenovia 456 (prounounced urth-eer-ia cse-no-vee-a 46), or, more commonly known as Earth-X, is, as the code says, is a barren wasteland. On the way there the tardis gets jumped and destroyed by an intergalactic monster. This idea was cool, but I originally wanted to make the monster only have a 35% chance of killing you. Of course, because I suck, I had no idea how to do this, and gave up, making the monster kill you every time you go there. What a sad, sad life.*
 
 *The code I used:*
 
